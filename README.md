@@ -1,2 +1,11 @@
 # JSUtils
-Javascript Utilities
+
+General Javascript Utilities.
+
+
+
+
+
+
+
+
